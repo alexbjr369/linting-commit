@@ -1,1 +1,3 @@
-# linting-commit
+# Linting - Commit
+
+A configuration for **commit linting**.
