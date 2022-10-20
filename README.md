@@ -10,7 +10,7 @@ This project aims to be a simple configuration for **Commit Linting**, serving a
 
 **[`Website`](https://alexbleggi.netlify.app/docs/projects/linting-commit)** **[`Implementation`](https://alexbleggi.netlify.app/docs/projects/linting-commit/implementation)**
 
-## Built With
+## [Built With](https://alexbleggi.netlify.app/docs/projects/linting-commit/#built-with)
 
 <div style="display: inline_block">
   <a href="https://editorconfig.org/" target="_blank">
