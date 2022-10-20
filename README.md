@@ -8,7 +8,7 @@ This project aims to be a simple configuration for **Commit Linting**, serving a
 
 ## Links
 
-**[`Implementation`](https://alexbleggi.netlify.app/docs/projects/linting-commit/implementation)**
+**[`Website`](https://alexbleggi.netlify.app/docs/projects/linting-commit)** **[`Implementation`](https://alexbleggi.netlify.app/docs/projects/linting-commit/implementation)**
 
 ## Built With
 
